@@ -1,0 +1,14 @@
+{
+  "name": "scrapping",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "<gentasofia579@gmail.com>",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node config/esbuild.js"
+  },
+  "devDependencies": {
+    "esbuild": "^0.14.54"
+  }
+}
